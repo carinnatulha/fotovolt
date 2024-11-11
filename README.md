@@ -5,8 +5,6 @@
     <img src="logo.png" alt="Logo" width="150" height="140">
   </a>
 
-  <h3 align="center">Fotovolt</h3>
-
   <p align="center">
     An educational digital game to support photoelectric effect learning integrating a remote lab.
   </p>
