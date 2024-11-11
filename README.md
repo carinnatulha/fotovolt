@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    An educational digital game to support photoelectric effect learning integrating a remote lab.
+    An educational digital game to support photoelectric effect learning integrated with a remote lab.
   </p>
 </div>
 
