@@ -18,12 +18,14 @@ If you want to use Fotovolt in your research, you can cite this article which di
 ```
 Tulha, Carinna Nunes, Marco Antonio Garcia de Carvalho, and Vitor Rafael Coluci.
 "Educational digital game integrated into a remote laboratory for learning physic concepts."
-2019 ieee 19th international conference on advanced learning technologies (icalt). Vol. 2161. IEEE, 2019.
+2019 ieee 19th international conference on advanced learning technologies (icalt).
+Vol. 2161. IEEE, 2019.
 ```
 
 ```
 Tulha, Carinna Nunes, Marco Antonio G. de Carvalho, and Vitor R. Coluci.
-"Integration of digital games and remote laboratories with real-time visualization: Conception, Implementation and Evaluation."
+"Integration of digital games and remote laboratories with real-time visualization:
+Conception, Implementation and Evaluation."
 Revista Brasileira de Ensino de Física 43 (2021): e20210202.
 ```
 
